@@ -94,7 +94,7 @@ nano metadata.json
 
 7. Operator.Json dosyasını açalım ve gerekli düzenlemeleri yapalım.
 ```shell
-nano operator.json
+nano operator.yaml
 ```
 #### Metadata URL yazan kısma yukarıda yapmış olduğunuz Metadata klasörünüzün RAW linkini tırnakların içerisine ekleyelim ve CTRL X - Y ENTER diyerek kaydedip çıkalım.
 
