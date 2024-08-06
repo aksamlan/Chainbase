@@ -92,7 +92,7 @@ nano metadata.json
  ![image](https://github.com/user-attachments/assets/02e64dea-4018-4c83-97ca-a113114ff7f0)
  ![image](https://github.com/user-attachments/assets/c980efd5-3c29-47c1-aecf-d87a5c0f0c1a)
 
-7. Operator.Json dosyasını açalım ve gerekli düzenlemeleri yapalım.
+7. Operator.yaml dosyasını açalım ve gerekli düzenlemeleri yapalım.
 ```shell
 nano operator.yaml
 ```
