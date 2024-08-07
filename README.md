@@ -118,7 +118,7 @@ rm -rf .env
 # Yenisini oluşturup içine girelim
 nano .env
 ```
-Aşağıdaki kodları içerisine ekleyip kendinize göre düzenleyin ve CTRL X - Y ENTER yapıp kaydedin ve çıkın.
+Aşağıdaki kodları içerisine ekleyip en aşağıdaki şifre kısmını düzenleyin ve CTRL X - Y ENTER yapıp kaydedin ve çıkın.
 ```shell
 # Chainbase AVS Image
 MAIN_SERVICE_IMAGE=repository.chainbase.com/network/chainbase-node:testnet-v0.1.7
