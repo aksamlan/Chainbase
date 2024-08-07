@@ -106,6 +106,10 @@ eigenlayer operator register operator.yaml
 ```shell
 eigenlayer operator status operator.yaml
 ```
+#### Metadata herhangi bir değişiklik yaptığınızda güncellemek için
+```shell
+eigenlayer operator update operator.yaml
+```
 9. Chainbase AVS Yapılandıralım
 ```shell
 # Eskisi varsa silelim
