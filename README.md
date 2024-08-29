@@ -96,7 +96,7 @@ nano metadata.json
 ```shell
 nano operator.yaml
 ```
-#### Metadata URL yazan kısma yukarıda yapmış olduğunuz Metadata klasörünüzün RAW linkini tırnakların içerisine ekleyelim ve CTRL X - Y ENTER diyerek kaydedip çıkalım.
+#### Metadata URL yazan kısma yukarıda yapmış olduğunuz Metadata klasörünüzün RAW linkini tırnakların içerisine ekleyelim ve el_delegation_manager_address: 0xA44151489861Fe9e3055d95adC98FbD462B948e7 olan yere de bu değeri girelim CTRL X - Y ENTER diyerek kaydedip çıkalım.
 
 8. Eigenlayer Holesky Nodu'muzu çalıştıralım. Register Succes çıktısı almamız gerekecek.
 ```shell
